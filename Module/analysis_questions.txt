@@ -1,0 +1,7 @@
+1. Start time: when to open
+2. Start station name that is most frequently visited. 
+3. average trip duration per station(start and end)
+4. demographic information for customers. 
+5. dates within the month that are high volume/ days of the week. 
+6. Gender
+7. Customer vs subscriber vs age vs gender. 
